@@ -72,7 +72,7 @@ python fft plot.py --port COM6
 
 Below is an example plot generated from the `fft plot.py` visualizer:
 
-![FFT and Time Domain Plot](py output.png)
+![FFT and Time Domain Plot](py_output.png)
 
 - Peak Frequency: ~50.8 Hz  
 - Amplitude: ~0.485  
