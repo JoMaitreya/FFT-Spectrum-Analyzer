@@ -60,12 +60,12 @@ pip install matplotlib pyserial numpy
 ### ▶️ Run
 
 ```bash
-python fft.py
+python fft plot.py
 ```
 
 To change COM port:
 ```bash
-python fft.py --port COM6
+python fft plot.py --port COM6
 ```
 
 ## 🖼️ Example Python Output
